@@ -1,3 +1,12 @@
+"""photocopy
+
+Copyright 2026 by Joel Midstjärna.
+All rights reserved.
+This file is part of the pycstruct python library and is
+released under the "MIT License Agreement". Please see the LICENSE
+file that should have been included as part of this package.
+"""
+
 from tkinter import *
 from tkinter import filedialog
 from tkinter import messagebox
