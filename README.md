@@ -9,7 +9,7 @@ The destination file will look like this:
 
 Year and month is based on the file creation date.
 
-This utility is very stable and robust and will omit files that was not possibly to copy 
+This utility is very stable and robust and will omit files that was not possible to copy 
 of any reason. 
 
 ![screenshot](screenshot.png)
@@ -32,9 +32,8 @@ Alternatively use the command line version:
 
 # Configuration
 
-You can configure the name of the month directories as you wish by modifying the file:
-
-	photocopy.ini
+You can configure the name of the month directories as you wish by modifying 
+[photocopy.ini](photocopy.ini) file.
 
 The file must be in the same directory as the python files.
 
